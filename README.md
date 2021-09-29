@@ -1,6 +1,6 @@
 **SISTEMA DE VENDAS ONLINE**
 
-Esse projeto foi idealizado e desenvolvido por mim, na linguagem Java, com o objetivo de praticar a programação orientada a objeto.
+Esse projeto foi idealizado e desenvolvido por mim, na linguagem Java, com o objetivo de praticar programação orientada a objeto.
 
 Trata-se de um sistema de vendas que solicita do usuário algumas informações como descrição do produto, quantidade de itens e valor unitário e retorna um resumo da compra. 
 
